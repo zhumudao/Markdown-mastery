@@ -1,2 +1,3 @@
 # Markdown-mastery
-Study Notes
+
+A beginner-friendly project to learn Markdown step by step through real-world examples.
