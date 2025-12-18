@@ -57,6 +57,7 @@ Learn how to write **bold**, *italic*, and `inline code`.
 - [x] GitHub README structure
 - [ ] Tables and advanced formatting
 - [ ] Diagrams and Mermaid
+```
 
 ## Contributing
 
