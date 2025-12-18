@@ -7,3 +7,54 @@ A beginner-friendly project to learn Markdown step by step through real-world ex
 - Learn Markdown from zero to advanced
 - Hands-on examples and exercises
 - GitHub-ready documentation style
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourname/markdown-mastery.git
+
+cd markdown-mastery
+
+📌 Use:
+- ```bash for commands
+- ```python for code
+- ```json for config
+
+---
+
+# STEP 4 — Usage Section (Explanation + Code)
+
+### 🎯 Goal
+- Combine **text + code**
+- Teach users how to use your project
+
+### Markdown
+```md
+## Usage
+
+Open the README files and follow the lessons in order.
+
+Example:
+
+```md
+# Lesson 1
+Learn how to write **bold**, *italic*, and `inline code`.
+
+---
+
+# STEP 5 — Roadmap (Task Lists)
+
+### 🎯 Goal
+- Use **task lists**
+- Show future plans
+
+### Markdown
+```md
+## Roadmap
+
+- [x] Beginner Markdown basics
+- [x] GitHub README structure
+- [ ] Tables and advanced formatting
+- [ ] Diagrams and Mermaid
