@@ -10,8 +10,6 @@ A beginner-friendly project to learn Markdown step by step through real-world ex
 
 ## Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/yourname/markdown-mastery.git
 
