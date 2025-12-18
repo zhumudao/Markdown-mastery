@@ -47,9 +47,7 @@ Learn how to write **bold**, *italic*, and `inline code`.
 ### 🎯 Goal
 - Use **task lists**
 - Show future plans
-
-### Markdown
-```md
+```
 
 ## Roadmap
 
@@ -57,7 +55,6 @@ Learn how to write **bold**, *italic*, and `inline code`.
 - [x] GitHub README structure
 - [ ] Tables and advanced formatting
 - [ ] Diagrams and Mermaid
-```
 
 ## Contributing
 
