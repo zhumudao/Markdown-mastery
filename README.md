@@ -27,16 +27,13 @@ cd markdown-mastery
 ### 🎯 Goal
 - Combine **text + code**
 - Teach users how to use your project
-
-### Markdown
-```md
+```
 ## Usage
 
 Open the README files and follow the lessons in order.
-
+```bash
 Example:
 
-```md
 # Lesson 1
 Learn how to write **bold**, *italic*, and `inline code`.
 
