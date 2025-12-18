@@ -66,9 +66,7 @@ Contributions are welcome!
 For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-MIT
 ```bash
-This project is licensed under the MIT License.
 
 ---
 
