@@ -28,6 +28,7 @@ cd markdown-mastery
 - Combine **text + code**
 - Teach users how to use your project
 ```
+
 ## Usage
 
 Open the README files and follow the lessons in order.
@@ -65,5 +66,32 @@ Contributions are welcome!
 For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-
+MIT
+```bash
 This project is licensed under the MIT License.
+
+---
+
+# 🎯 What You’ve Just Learned
+
+| Skill | Level |
+|----|----|
+| README structure | ✅ Real-world |
+| Headings | ✅ Correct usage |
+| Lists | ✅ Professional |
+| Code blocks | ✅ Practical |
+| Task lists | ✅ GitHub-ready |
+
+You are now **above beginner level**.
+
+---
+
+# 🚀 Next Options (Choose One)
+
+1️⃣ Upgrade this README to **Advanced (badges, tables, screenshots)**  
+2️⃣ Practice by writing **your own project README** (I review it)  
+3️⃣ Learn **Tables & Diagrams**  
+4️⃣ Markdown **Quiz for GitHub power users**
+
+Reply with a number and I’ll continue.
+```
