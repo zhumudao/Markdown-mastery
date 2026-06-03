@@ -2,6 +2,10 @@
 
 A beginner-friendly project to learn Markdown step by step through real-world examples.
 
+## Included tools
+
+- [keye-markdown-tools](tools/keye-markdown-tools/README.md) - Markdown processing tools for YAML Front Matter, conversion, batch operations, and quality checks.
+
 ## Features
 
 - Learn Markdown from zero to advanced
